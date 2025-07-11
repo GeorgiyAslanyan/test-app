@@ -1,5 +1,3 @@
-import React from 'react';
-
 const CommentSkeleton = () => (
   <div className="bg-zinc-800 border border-zinc-700 p-4 rounded-lg animate-pulse">
     <div className="h-4 bg-zinc-700 rounded w-1/2 mb-2" />
