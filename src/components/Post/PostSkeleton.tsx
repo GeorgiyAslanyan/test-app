@@ -1,5 +1,3 @@
-import React from 'react';
-
 const PostSkeleton = () => (
   <div className="bg-black rounded-lg shadow-md p-4 animate-pulse">
     <div className="h-6 bg-zinc-800 rounded w-3/4 mb-3" />
